@@ -1,3 +1,4 @@
-# mach-learn-pocs
+### pub-ai-snippets
 
-A Public Machine Learning Proof of Concepts Repository
+Public artificial intelligence algorithms snippets
+
